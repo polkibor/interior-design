@@ -1,5 +1,35 @@
-.colum {
-  width: 33.33%;
+.column1 {
+  width: 33%;
   float: left;
-  background-color: grey;
+  background-color:grey;
+  margin: 2px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+
+}
+.column2 {
+  width: 33%;
+  float: left;
+  background-color:chocolate;
+  margin: 2px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.column3 {
+  width: 33%;
+  float: left;
+  background-color:brown;
+  margin: 2px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+h1 {
+  background-color: burlywood;
+  
+}
+.imagepx {
+  width: 300px;
 }
